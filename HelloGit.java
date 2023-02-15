@@ -14,8 +14,7 @@ public class HelloGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello, world from GIT!");
-	System.out.println("Hey");        
+        System.out.println("Hello, world from GIT!");        
     }
     
 }
